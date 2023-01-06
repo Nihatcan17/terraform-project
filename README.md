@@ -4,33 +4,33 @@
 
  Road Map:
 
- ![Project_002](tf-phonebook.png)
+ ![Project_002](project-images/tf-phonebook.png)
 
 
  Security Groups:
 
- ![Project_207](Security-Groups.png)
+ ![Project_207](project-images/Security-Groups.png)
 
 
 Outcome:
 
 Search page
 
-![Project_207](search.PNG)
+![Project_207](project-images/search.PNG)
 
 Add page 
 
-![Project_207](add.PNG)
+![Project_207](project-images/add.PNG)
 
 Delete page
 
-![Project_207](delete.PNG)
+![Project_207](project-images/delete.PNG)
 
 Update page
 
-![Project_207](update.PNG)
+![Project_207](project-images/update.PNG)
 
 
 NOTE: You must customize your variable in terraform-files/myvars.auto.tfvars file.
 
-![Project_207](myvars.PNG)
+![Project_207](project-images/myvars.PNG)
